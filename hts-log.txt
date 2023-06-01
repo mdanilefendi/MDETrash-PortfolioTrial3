@@ -1,0 +1,41 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 01 Jun 2023 09:36:26 at https://portfolio-webflow-html-website-template.webflow.io/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://portfolio-webflow-html-website-template.webflow.io/ -O1 "D:\Download\Programs\Portofolio - Webflow" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:36:51	Warning: 	Retry after error 502 (Bad Gateway) at link https://portfolio-webflow-html-website-template.webflow.io/contact (from https://portfolio-webflow-html-website-template.webflow.io/)
+09:36:52	Warning: 	Retry after error 502 (Bad Gateway) at link https://portfolio-webflow-html-website-template.webflow.io/projects/gorillax-branding (from https://portfolio-webflow-html-website-template.webflow.io/)
+09:36:52	Warning: 	Retry after error 502 (Bad Gateway) at link https://portfolio-webflow-html-website-template.webflow.io/blog/how-to-build-rapport-with-your-web-design-clients (from https://portfolio-webflow-html-website-template.webflow.io/)
+09:36:52	Warning: 	Retry after error 502 (Bad Gateway) at link https://portfolio-webflow-html-website-template.webflow.io/blog/top-6-free-website-mockup-tools-2021 (from https://portfolio-webflow-html-website-template.webflow.io/)
+09:36:53	Warning: 	Retry after error 502 (Bad Gateway) at link https://portfolio-webflow-html-website-template.webflow.io/blog/22-best-ui-design-tools (from https://portfolio-webflow-html-website-template.webflow.io/)
+09:36:53	Warning: 	Retry after error 502 (Bad Gateway) at link https://portfolio-webflow-html-website-template.webflow.io/reference/licensing (from https://portfolio-webflow-html-website-template.webflow.io/)
+09:36:53	Warning: 	Retry after error 502 (Bad Gateway) at link https://portfolio-webflow-html-website-template.webflow.io/reference/instructions (from https://portfolio-webflow-html-website-template.webflow.io/)
+09:36:53	Warning: 	Retry after error 502 (Bad Gateway) at link https://portfolio-webflow-html-website-template.webflow.io/reference/changelog (from https://portfolio-webflow-html-website-template.webflow.io/)
+09:36:53	Warning: 	Retry after error 502 (Bad Gateway) at link https://portfolio-webflow-html-website-template.webflow.io/reference/style-guide (from https://portfolio-webflow-html-website-template.webflow.io/)
+09:36:54	Warning: 	Retry after error 502 (Bad Gateway) at link https://portfolio-webflow-html-website-template.webflow.io/projects/joggr-website-design (from https://portfolio-webflow-html-website-template.webflow.io/projects)
+09:36:54	Warning: 	Retry after error 502 (Bad Gateway) at link https://portfolio-webflow-html-website-template.webflow.io/contact (from https://portfolio-webflow-html-website-template.webflow.io/)
+09:36:54	Warning: 	Retry after error 502 (Bad Gateway) at link https://portfolio-webflow-html-website-template.webflow.io/projects/gorillax-branding (from https://portfolio-webflow-html-website-template.webflow.io/)
+09:36:54	Warning: 	Retry after error 502 (Bad Gateway) at link https://portfolio-webflow-html-website-template.webflow.io/blog/how-to-build-rapport-with-your-web-design-clients (from https://portfolio-webflow-html-website-template.webflow.io/)
+09:36:54	Warning: 	Retry after error 502 (Bad Gateway) at link https://portfolio-webflow-html-website-template.webflow.io/blog/top-6-free-website-mockup-tools-2021 (from https://portfolio-webflow-html-website-template.webflow.io/)
+09:36:54	Warning: 	Retry after error 502 (Bad Gateway) at link https://portfolio-webflow-html-website-template.webflow.io/blog/22-best-ui-design-tools (from https://portfolio-webflow-html-website-template.webflow.io/)
+09:36:55	Warning: 	Retry after error 502 (Bad Gateway) at link https://portfolio-webflow-html-website-template.webflow.io/reference/licensing (from https://portfolio-webflow-html-website-template.webflow.io/)
+09:36:55	Warning: 	Retry after error 502 (Bad Gateway) at link https://portfolio-webflow-html-website-template.webflow.io/reference/instructions (from https://portfolio-webflow-html-website-template.webflow.io/)
+09:36:55	Warning: 	Retry after error 502 (Bad Gateway) at link https://portfolio-webflow-html-website-template.webflow.io/reference/changelog (from https://portfolio-webflow-html-website-template.webflow.io/)
+09:36:55	Warning: 	Retry after error 502 (Bad Gateway) at link https://portfolio-webflow-html-website-template.webflow.io/reference/style-guide (from https://portfolio-webflow-html-website-template.webflow.io/)
+09:36:55	Warning: 	Retry after error 502 (Bad Gateway) at link https://portfolio-webflow-html-website-template.webflow.io/projects/joggr-website-design (from https://portfolio-webflow-html-website-template.webflow.io/projects)
+09:36:55	Error: 	"Bad Gateway" (502) after 2 retries at link https://portfolio-webflow-html-website-template.webflow.io/contact (from https://portfolio-webflow-html-website-template.webflow.io/)
+09:36:55	Error: 	"Bad Gateway" (502) after 2 retries at link https://portfolio-webflow-html-website-template.webflow.io/projects/gorillax-branding (from https://portfolio-webflow-html-website-template.webflow.io/)
+09:36:55	Error: 	"Bad Gateway" (502) after 2 retries at link https://portfolio-webflow-html-website-template.webflow.io/blog/how-to-build-rapport-with-your-web-design-clients (from https://portfolio-webflow-html-website-template.webflow.io/)
+09:36:55	Error: 	"Bad Gateway" (502) after 2 retries at link https://portfolio-webflow-html-website-template.webflow.io/blog/top-6-free-website-mockup-tools-2021 (from https://portfolio-webflow-html-website-template.webflow.io/)
+09:36:55	Error: 	"Bad Gateway" (502) after 2 retries at link https://portfolio-webflow-html-website-template.webflow.io/blog/22-best-ui-design-tools (from https://portfolio-webflow-html-website-template.webflow.io/)
+09:36:55	Error: 	"Bad Gateway" (502) after 2 retries at link https://portfolio-webflow-html-website-template.webflow.io/reference/licensing (from https://portfolio-webflow-html-website-template.webflow.io/)
+09:36:55	Error: 	"Bad Gateway" (502) after 2 retries at link https://portfolio-webflow-html-website-template.webflow.io/reference/instructions (from https://portfolio-webflow-html-website-template.webflow.io/)
+09:36:56	Error: 	"Bad Gateway" (502) after 2 retries at link https://portfolio-webflow-html-website-template.webflow.io/reference/changelog (from https://portfolio-webflow-html-website-template.webflow.io/)
+09:36:56	Error: 	"Bad Gateway" (502) after 2 retries at link https://portfolio-webflow-html-website-template.webflow.io/reference/style-guide (from https://portfolio-webflow-html-website-template.webflow.io/)
+09:36:56	Error: 	"Bad Gateway" (502) after 2 retries at link https://portfolio-webflow-html-website-template.webflow.io/projects/joggr-website-design (from https://portfolio-webflow-html-website-template.webflow.io/projects)
+
+HTTrack Website Copier/3.49-2 mirror complete in 30 seconds : 61 links scanned, 30 files written (3516707 bytes overall) [3018197 bytes received at 100606 bytes/sec], 689637 bytes transferred using HTTP compression in 12 files, ratio 23%, 8.7 requests per connection
+(10 errors, 20 warnings, 0 messages)
